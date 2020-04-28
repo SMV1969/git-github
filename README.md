@@ -1,2 +1,2 @@
 # git-github
-1st git repos
+1st git repos tutorial purpose
